@@ -1,6 +1,0 @@
-{
-    "restaurant_id": "{restaurant_id}",
-    "offer_type": "{offer_type}",
-    "offer_value": "{offer_value}",
-    "customer_segment": ["{segment}"]
-}
